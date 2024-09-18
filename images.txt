@@ -1,6 +1,6 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+axisecp/acap-sdk:3.3-aarch64-ubuntu20.04
+axisecp/acap-sdk:3.5-armv7hf-ubuntu20.04
+axisecp/acap-sdk:3.5-aarch64-ubuntu20.04
+axisecp/acap-sdk:3.5-armv7hf-ubuntu20.04
+axisecp/acap-native-sdk:1.15-armv7hf-ubuntu22.04
+axisecp/acap-native-sdk:1.15-aarch64-ubuntu22.04
