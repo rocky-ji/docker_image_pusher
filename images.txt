@@ -1,5 +1,5 @@
 axisecp/acap-sdk:3.3-aarch64-ubuntu20.04
-axisecp/acap-sdk:3.5-armv7hf-ubuntu20.04
+axisecp/acap-sdk:3.3-armv7hf-ubuntu20.04
 axisecp/acap-sdk:3.5-aarch64-ubuntu20.04
 axisecp/acap-sdk:3.5-armv7hf-ubuntu20.04
 axisecp/acap-native-sdk:1.15-armv7hf-ubuntu22.04
